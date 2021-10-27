@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProsjekOcjena", "ProsjekOcj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProsjekOcjenaTryParse", "ProsjekOcjenaTryParse\ProsjekOcjenaTryParse.csproj", "{B3AE620C-0A69-4D8A-AC9F-FD05745E3736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatumiRodenja", "DatumiRodenja\DatumiRodenja.csproj", "{D5E8C346-5257-4EB7-9C75-717B707AF9EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatumiRodenja", "DatumiRodenja\DatumiRodenja.csproj", "{D5E8C346-5257-4EB7-9C75-717B707AF9EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaniMjeseca", "DaniMjeseca\DaniMjeseca.csproj", "{44D46B73-4AD5-403B-BFFF-FD282FC3755A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaniMjeseca", "DaniMjeseca\DaniMjeseca.csproj", "{44D46B73-4AD5-403B-BFFF-FD282FC3755A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djelitelji", "Djelitelji\Djelitelji.csproj", "{3A781C7D-DB4F-473F-A9B7-29A479F0D411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DjeliteljiDoPetlja", "DjeliteljiDoPetlja\DjeliteljiDoPetlja.csproj", "{EEBDC3A6-8B63-4668-A213-187D32E60299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{44D46B73-4AD5-403B-BFFF-FD282FC3755A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D46B73-4AD5-403B-BFFF-FD282FC3755A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D46B73-4AD5-403B-BFFF-FD282FC3755A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A781C7D-DB4F-473F-A9B7-29A479F0D411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A781C7D-DB4F-473F-A9B7-29A479F0D411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A781C7D-DB4F-473F-A9B7-29A479F0D411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A781C7D-DB4F-473F-A9B7-29A479F0D411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBDC3A6-8B63-4668-A213-187D32E60299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBDC3A6-8B63-4668-A213-187D32E60299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBDC3A6-8B63-4668-A213-187D32E60299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBDC3A6-8B63-4668-A213-187D32E60299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
