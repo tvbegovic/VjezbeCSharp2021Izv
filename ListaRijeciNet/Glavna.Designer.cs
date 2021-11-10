@@ -72,7 +72,6 @@ namespace ListaRijeciNet
             this.btnDodajNaPoziciju.TabIndex = 1;
             this.btnDodajNaPoziciju.Text = "Dodaj riječ na poziciju";
             this.btnDodajNaPoziciju.UseVisualStyleBackColor = true;
-            
             // 
             // btnDodajNaKraj
             // 
@@ -82,7 +81,7 @@ namespace ListaRijeciNet
             this.btnDodajNaKraj.TabIndex = 1;
             this.btnDodajNaKraj.Text = "Dodaj riječ na kraj";
             this.btnDodajNaKraj.UseVisualStyleBackColor = true;
-            
+            this.btnDodajNaKraj.Click += new System.EventHandler(this.btnDodajNaKraj_Click);
             // 
             // txtJednaRijec
             // 
@@ -110,7 +109,6 @@ namespace ListaRijeciNet
             this.btnDodajVise.TabIndex = 1;
             this.btnDodajVise.Text = "Dodaj";
             this.btnDodajVise.UseVisualStyleBackColor = true;
-            
             // 
             // txtViseRijeci
             // 
@@ -136,7 +134,6 @@ namespace ListaRijeciNet
             this.btnUkloni.TabIndex = 3;
             this.btnUkloni.Text = "Ukloni";
             this.btnUkloni.UseVisualStyleBackColor = true;
-            
             // 
             // btnOcisti
             // 
@@ -146,7 +143,6 @@ namespace ListaRijeciNet
             this.btnOcisti.TabIndex = 3;
             this.btnOcisti.Text = "Isprazni listu";
             this.btnOcisti.UseVisualStyleBackColor = true;
-            
             // 
             // Glavna
             // 
