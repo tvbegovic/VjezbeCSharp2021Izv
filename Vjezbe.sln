@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TocnoVrijeme", "TocnoVrijeme\TocnoVrijeme.csproj", "{8B93CEC6-244C-4198-BA57-3F7B64E04C30}"
 EndProject
@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtplataKredita", "OtplataKr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaRijeciNet", "ListaRijeciNet\ListaRijeciNet.csproj", "{E6FD8A46-0E1D-4A88-BAFB-783431D38295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brojevi", "Brojevi\Brojevi.csproj", "{E2F73014-79B3-49C6-BB06-04D115234A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brojevi", "Brojevi\Brojevi.csproj", "{E2F73014-79B3-49C6-BB06-04D115234A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgraKlase", "IgraKlase\IgraKlase.csproj", "{3BAE0966-075B-459D-BA73-7C1E794C2C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgraKlaseNetFramework", "IgraKlaseNetFramework\IgraKlaseNetFramework.csproj", "{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{E2F73014-79B3-49C6-BB06-04D115234A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F73014-79B3-49C6-BB06-04D115234A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F73014-79B3-49C6-BB06-04D115234A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAE0966-075B-459D-BA73-7C1E794C2C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAE0966-075B-459D-BA73-7C1E794C2C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAE0966-075B-459D-BA73-7C1E794C2C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAE0966-075B-459D-BA73-7C1E794C2C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
