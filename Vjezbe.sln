@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TocnoVrijeme", "TocnoVrijeme\TocnoVrijeme.csproj", "{8B93CEC6-244C-4198-BA57-3F7B64E04C30}"
 EndProject
@@ -27,9 +27,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaRijeciNet", "ListaRije
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brojevi", "Brojevi\Brojevi.csproj", "{E2F73014-79B3-49C6-BB06-04D115234A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgraKlase", "IgraKlase\IgraKlase.csproj", "{3BAE0966-075B-459D-BA73-7C1E794C2C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IgraKlase", "IgraKlase\IgraKlase.csproj", "{3BAE0966-075B-459D-BA73-7C1E794C2C29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgraKlaseNetFramework", "IgraKlaseNetFramework\IgraKlaseNetFramework.csproj", "{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igre_ListaObjekata", "Igre_ListaObjekata\Igre_ListaObjekata.csproj", "{D97E9AC1-83B7-4D6A-AAF6-02C9B8A29D42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FFED1F1-71D1-4A4F-A057-D27DADEBB9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97E9AC1-83B7-4D6A-AAF6-02C9B8A29D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97E9AC1-83B7-4D6A-AAF6-02C9B8A29D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97E9AC1-83B7-4D6A-AAF6-02C9B8A29D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97E9AC1-83B7-4D6A-AAF6-02C9B8A29D42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
